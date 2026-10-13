@@ -1,0 +1,10 @@
+{
+  "description": "Explore and shop fashion with AI-powered virtual try-on and visual search to preview outfits and find similar styles effortlessly on a vibrant platform.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
